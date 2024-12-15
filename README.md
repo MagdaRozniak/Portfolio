@@ -25,7 +25,7 @@ Jestem bardzo zmotywowana, by wykorzystać zdobytą wiedzę i chęć nauki, by s
 * remigiuszbednarczyk.pl
 ## W PRAKTYCE:
 ## SQL 
-* [Zadania SQL](https://docs.google.com/document/d/1OwDcvkhdXYEsWW839Aom4vHjr9EtCHl_21ejZs1P5io/edit?usp=sharing)
+* [Zapytania SQL](https://docs.google.com/document/d/1OwDcvkhdXYEsWW839Aom4vHjr9EtCHl_21ejZs1P5io/edit?usp=sharing)
 ## PRZYPADKI TESTOWE
 * Sklep "MyStore":
   * [a) Rejestracja nowego użytkownika](https://docs.google.com/document/d/19BLM_ORDP080cZRq4dJbBtTGDtQVShYlulMjcShvxMU/edit?usp=sharing)
