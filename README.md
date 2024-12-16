@@ -14,8 +14,8 @@ Jestem bardzo zmotywowana, by wykorzystać zdobytą wiedzę i chęć nauki, by s
 * Pisanie scenariuszy
 * Sporządzanie raportów cząstkowych i pełnych
 ## WYKSZTAŁCENIE
-* Tester Automatyzujący - w trakcie kursu
-* Tester Manualny, Coder's Lab Szkoła IT
+* Tester Automatyzujący, Coder's Lab - w trakcie kursu
+* Tester Manualny, Coder's Lab
 * Podstawy manualnego testowania oprogramowania, Udemy
 ## KSIĄŻKI TECHNICZNE
 * Certyfikowany tester ISTQB - A.Roman, L.Stapp
