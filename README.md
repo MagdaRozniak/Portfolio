@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## O MNIE
-Dopiero zaczyna swoją przygodę z testowaniem oprogramowania, ale z ogromnym entuzjazmem podchodzę do tej zmiany zawodowej. Ukończyłam kurs testera manualnego, który dał mi solidne podstawy do rozumienia procesów testowych, a teraz rozwijam swoje umiejętności w zakresie testowania automatycznego.
+Dopiero zaczynam swoją przygodę z testowaniem oprogramowania, ale z ogromnym entuzjazmem podchodzę do tej zmiany zawodowej. Ukończyłam kurs testera manualnego, który dał mi solidne podstawy do rozumienia procesów testowych, a teraz rozwijam swoje umiejętności w zakresie testowania automatycznego.
 Jestem bardzo zmotywowana, by wykorzystać zdobytą wiedzę i chęć nauki, by szybko stać się wartościowym członkiem zespołu. Zależy mi na rozwoju i jestem przekonana, że moje zaangażowanie oraz umiejętności zdobyte w obecnej pracy oraz podczas kursów pozwolą mi skutecznie wspierać projekty testerskie.
 ## NARZĘDZIA
 * Do zarządzania testowaniem: Jira
